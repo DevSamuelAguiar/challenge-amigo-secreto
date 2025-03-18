@@ -13,7 +13,7 @@ O objetivo principal deste desafio é comprovar as habilidades em lógica de pro
 
 Caso você queira  testar em localhost ou modificar o meu código do desafio, é só fazer o clone do projeto e abrir com o arquivo index.html com plugin ´live server´ no VSCode por exemplo.
 
-Mas também é possível você testá-lo sem a necessidade de baixá-lo  através do link :
+Mas também é possível você testá-lo sem a necessidade de baixá-lo  através do link : https://devsamuelaguiar.github.io/challenge-amigo-secreto/ 
 
 
 
